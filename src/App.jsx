@@ -54,7 +54,7 @@ const WeatherApp = ({
           </div>
         </div>
         <footer>
-          Developed by <span>Hari prasth</span>
+          Developed by <span>Hari prasath K</span>
         </footer>
       </div>
     </>
